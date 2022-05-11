@@ -17,8 +17,8 @@
   <img align="center" alt="JS" tittle="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp
   <img align="center" alt="JQUERY" tittle="JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> &nbsp
   <img align="center" alt="ANGULAR" tittle="ANGULAR" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> &nbsp
-  <img align="center" alt="VUE" tittle="VUE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> &nbsp
-  <img align="center" alt="REACT" tittle="REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> &nbsp 
+  <img align="center" alt="VUE" tittle="VUE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> &nbsp
+  <img align="center" alt="REACT" tittle="REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" &nbsp 
 </div>
 <br>
 
