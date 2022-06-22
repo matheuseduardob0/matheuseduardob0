@@ -3,7 +3,7 @@
 <h3>💻 Sobre mim:</h3>
 
 - 👨🏽‍💻 Desenvolvedor Front End
-- 🚀 HTML5 - CSS3 - BOOTSTRAP - JAVASCRIPT - JQUERY - ANGULAR - REACT - VUE •
+- 🚀 HTML5 - CSS3 - BOOTSTRAP - JAVASCRIPT - JQUERY - REACT - VUE •
 - 📫 E-mail: matheuseduardob0@gmail.com
 - 🌐 Linkedin: <a href="https://www.linkedin.com/in/matheuseduardob/"> linkedin.com/in/matheuseduardob </a>
 - 🙋🏽‍♂️ Link do meu Portifólio: Loading...
@@ -16,7 +16,7 @@
   <img align="center" alt="BOOTSTRAP" tittle="BOOTSTRAP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> &nbsp
   <img align="center" alt="JS" tittle="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp
   <img align="center" alt="JQUERY" tittle="JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> &nbsp
-  <img align="center" alt="ANGULAR" tittle="ANGULAR" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> &nbsp
+  <!--<img align="center" alt="ANGULAR" tittle="ANGULAR" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> &nbsp -->
   <img align="center" alt="VUE" tittle="VUE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> &nbsp
   <img align="center" alt="REACT" tittle="REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" &nbsp 
 </div>
