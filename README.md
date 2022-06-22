@@ -11,14 +11,14 @@
 
 <div style="display: inline_block">
   <h3>🚀Principais Tecnologias:</h3>
-  <img align="center" alt="HTML5" tittle="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp
-  <img align="center" alt="CSS3" tittle="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp
-  <img align="center" alt="BOOTSTRAP" tittle="BOOTSTRAP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> &nbsp
-  <img align="center" alt="JS" tittle="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp
-  <img align="center" alt="JQUERY" tittle="JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> &nbsp
+  <img align="center" alt="HTML5" title="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> &nbsp
+  <img align="center" alt="CSS3" title="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> &nbsp
+  <img align="center" alt="BOOTSTRAP" title="BOOTSTRAP" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> &nbsp
+  <img align="center" alt="JS" title="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp
+  <img align="center" alt="JQUERY" title="JQUERY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"> &nbsp
   <!--<img align="center" alt="ANGULAR" tittle="ANGULAR" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> &nbsp -->
-  <img align="center" alt="REACT" tittle="REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp 
-  <img align="center" alt="VUE" tittle="VUE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> &nbsp
+  <img align="center" alt="REACT" title="REACT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> &nbsp 
+  <img align="center" alt="VUE" title="VUE" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"> &nbsp
 </div>
 <br>
 
